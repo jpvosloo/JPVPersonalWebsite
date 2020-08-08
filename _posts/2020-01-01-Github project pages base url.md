@@ -3,8 +3,6 @@ title:  "How to setup Github project pages base url"
 permalink: /posts/Howto_Github_Project_Pages_Baseurl
 ---
 
-#How to setup baseurl for Github project pages.
-
 A solution for the standard URL for GitHub Pages (username.github.io/project-name/). Here's what to do:
 
 In _config.yml, set the baseurl option to /project-name -- note the leading slash and the absence of a trailing slash.
@@ -19,4 +17,4 @@ Finally, if you'd like to preview your site before committing/deploying using je
 
 This way you can preview your site locally from the site root on localhost, but when GitHub generates your pages from the gh-pages branch all the URLs will start with /project-name and resolve properly.
 
-https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
+From: [GitHub user mjswensen](https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908)
