@@ -1,5 +1,5 @@
 ---
-title:  "How to setup baseurl for Github project pages"
+title:  "How to setup Github project pages base url"
 permalink: /posts/Howto_Github_Project_Pages_Baseurl
 ---
 
