@@ -12,5 +12,5 @@ This will cause the special characters to be highlighted as symbol codes with th
 Use the [ANSI lookup table](http://ascii-table.com/ansi-codes.php) to see their related Unicode number.
 
 Example text:
-A m-dash – 
-“smart” quotes
+A m-dash â€“ 
+â€œsmartâ€ quotes
