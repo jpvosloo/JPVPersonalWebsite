@@ -1,6 +1,6 @@
 ---
 title:  "How to setup Github project pages base url"
-permalink: /posts/Howto_Github_Project_Pages_Baseurl
+permalink: /blog/IT/Howto_Github_Project_Pages_Baseurl
 ---
 
 A solution for the standard URL for GitHub Pages (username.github.io/project-name/). Here's what to do:
