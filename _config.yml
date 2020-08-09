@@ -7,8 +7,8 @@ baseurl: /JPVPersonalWebsite
 avatar: https://avatars2.githubusercontent.com/u/6603409?s=460&u=a1d5b374938401961bc99d376ca47433362e6c15
 disqus:
 google_analytics:
-permalink: /:title/
-
+#permalink: /:title/
+permalink: /:categories/:title/
 
 # Exclude these files from your production _site
 exclude:
