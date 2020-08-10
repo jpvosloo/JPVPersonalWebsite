@@ -12,6 +12,15 @@ Here's a list of posts
 </ul>
 
 <hr/>
+<div class="blog list">
+    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
+
+    {% for post in site.categories[page.tag] %}
+        {% include post_preview.html %}
+    {% endfor %}
+</div>
+
+<hr/>
 
 <div>
 {% for category in site.categories %}
